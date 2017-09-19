@@ -1,5 +1,5 @@
 # Usage example
-
+```ES6
 	const RealDebridClient = require('node-real-debrid')
 	const RD = new RealDebridClient('Your API token')
 
@@ -29,3 +29,4 @@
 	}).catch(error => {
 		console.log('ERROR', error)
 	})
+```
