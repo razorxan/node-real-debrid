@@ -1,4 +1,5 @@
 # Usage example
+	npm install node-real-debrid --save
 ```javascript
 const RealDebridClient = require('node-real-debrid')
 const RD = new RealDebridClient('Your API token')
