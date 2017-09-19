@@ -1,0 +1,27 @@
+{
+  "name": "node-real-debrid",
+  "version": "1.0.0",
+  "description": "Real debrid API library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razorxan/node-real-debrid.git"
+  },
+  "keywords": [
+    "realdebrid",
+    "real",
+    "debrid"
+  ],
+  "author": "razorxan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razorxan/node-real-debrid/issues"
+  },
+  "homepage": "https://github.com/razorxan/node-real-debrid#readme"
+}
