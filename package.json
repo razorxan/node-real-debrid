@@ -1,7 +1,7 @@
 {
-	"name": "node-real-debrid",
-	"version": "1.0.6",
-	"description": "Real debrid API library",
+	"name": "real-debrid-api",
+	"version": "1.0.0",
+	"description": "Real-debrid API library",
 	"main": "index.js",
 	"directories": {
 		"lib": "lib"
@@ -11,19 +11,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/razorxan/node-real-debrid.git"
+		"url": "git+https://github.com/atombarel/node-real-debrid.git"
 	},
 	"keywords": [
 		"realdebrid",
 		"real",
 		"debrid"
 	],
-	"author": "razorxan",
+	"author": "Andrea Tombarel",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/razorxan/node-real-debrid/issues"
+		"url": "https://github.com/atombarel/node-real-debrid/issues"
 	},
-	"homepage": "https://github.com/razorxan/node-real-debrid#readme",
+	"homepage": "https://github.com/atombarel/node-real-debrid#readme",
 	"dependencies": {
 		"request": "^2.83.0"
 	}
