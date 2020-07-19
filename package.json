@@ -25,6 +25,6 @@
 	},
 	"homepage": "https://github.com/atombarel/node-real-debrid#readme",
 	"dependencies": {
-		"request": "^2.83.0"
+		"got": "^11.5.1"
 	}
 }
